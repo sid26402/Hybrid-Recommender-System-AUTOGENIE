@@ -1,0 +1,16 @@
+Make_x,Model,Ex-Showroom_Price,Body_Type,Length,Fuel_Type,Displacement,Make_y,Avg_Maintenance,Avg_KM,Safety_Ratings,Nearby_Service_Centers,Reliability 
+Renault,Captur,949999,SUV,4329.0,Petrol,1498.0,Renault,Medium ,13.5,5.0,6.0,3.0
+Honda,Brv,1167900,SUV,4453.0,Petrol,1497.0,Honda,Medium ,,5.0,,
+Nissan,Kicks,1095000,SUV,4384.0,Petrol,1498.0,Nissan,Medium ,14.0,5.0,4.0,3.5
+Honda,Brv,952900,SUV,4453.0,Petrol,1497.0,Honda,Medium ,,5.0,,
+Renault,Duster,999990,SUV,4315.0,Petrol,1498.0,Renault,Low,,4.0,8.0,
+Renault,Duster,919990,SUV,4315.0,Petrol,1498.0,Renault,Low,,4.0,8.0,
+Nissan,Terrano,999900,SUV,4331.0,Petrol,1598.0,Nissan,Medium ,,4.0,,
+Renault,Duster,799990,SUV,4315.0,Petrol,1498.0,Renault,Low,,4.0,8.0,
+Kia,Seltos,989000,SUV,4315.0,Petrol,1497.0,Kia,Medium ,15.0,3.0,8.0,4.0
+Kia,Seltos,1029000,SUV,4315.0,Petrol,1497.0,Kia,Medium ,15.0,3.0,8.0,4.0
+Kia,Seltos,1149000,SUV,4315.0,Petrol,1497.0,Kia,Medium ,15.0,3.0,8.0,4.0
+Hyundai,Creta,999990,SUV,4270.0,Petrol,1591.0,Hyundai,Low,16.0,3.0,45.0,4.5
+Hyundai,Creta,1092192,SUV,4270.0,Petrol,1591.0,Hyundai,Low,16.0,3.0,45.0,4.5
+Maruti Suzuki,Gypsy,622730,SUV,4010.0,Petrol,1298.0,Maruti Suzuki,Low,,2.0,75.0,
+Maruti Suzuki,Gypsy,637343,SUV,4010.0,Petrol,1298.0,Maruti Suzuki,Low,,2.0,75.0,
